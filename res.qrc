@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imd/6.png</file>
+        <file>imd/wallhaven-7pe7py.jpg</file>
+        <file>imd/wallhaven-9d9111.jpg</file>
+        <file>imd/wallhaven-o5j2k9.jpg</file>
+        <file>imd/close.png</file>
+        <file>imd/open.png</file>
+        <file>imd/save.png</file>
+    </qresource>
+</RCC>
